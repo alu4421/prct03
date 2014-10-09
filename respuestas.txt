@@ -1,0 +1,13 @@
+18. 
+irb(main):001:0> puts "Hello world"
+	Hello world
+=> nil
+
+21.
+Haniel-Mac:prct03 haniel$ irb helloworld.rb
+helloworld.rb(main):001:0> puts "Hello Word"helloworld.rb(main):001:0> 
+	Hello Word
+=> nil
+
+La principal diferencia es que en el punto 18 se ejecuta linea a linea, y en el punto 21 se ejecuta el programa entero y da su resultado.
+
