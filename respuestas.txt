@@ -11,3 +11,13 @@ helloworld.rb(main):001:0> puts "Hello Word"helloworld.rb(main):001:0>
 
 La principal diferencia es que en el punto 18 se ejecuta linea a linea, y en el punto 21 se ejecuta el programa entero y da su resultado.
 
+26.
+
+	1)retorna - 10
+	2)retorna - :hello
+	3)retorna - Hello world
+	4)retorna - bye bye world!!!
+	5)retorna - "changed"
+	6)retorna - program resumes here. Value of x is: changed. 
+
+27. Que pry te permite modificar el código en tiempo de ejecución.
